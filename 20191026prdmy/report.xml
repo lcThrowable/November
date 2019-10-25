@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ReportConf>
+	<ReportUnits id="ExcelRouter">
+		<reportpath>/appvol/ybt/downloadfiles/excelreport/router</reportpath>
+	</ReportUnits>
+	<ReportUnits id="parseXml">
+		 <reportpath>/appvol/ybt/downloadfiles/notrealconclusion/metlife</reportpath>
+		<!--<reportpath>D:/UpLoad</reportpath> -->
+	</ReportUnits>
+	<ReportUnits id="MzElePolicy">
+		 <reportpath>/appvol/ybt/downloadfiles/policy/anzl</reportpath>
+	</ReportUnits>
+	<ReportUnits id="UpLoadPolicy">
+		 <reportpath>/appvol/ybt/uploadfiles/input/anzl</reportpath>
+		 <!-- <reportpath>D:/download/contDoc</reportpath> -->
+	</ReportUnits>
+	<ReportUnits id="UpLoadTemp">
+		 <reportpath>/appvol/scan/uploadfiles/temp</reportpath>
+		 <!-- <reportpath>D:/download/temp</reportpath> -->
+	</ReportUnits>	
+	<ReportUnits id="MzPath">
+		 <reportpath>https://ybt.cn.hsbc:20119/ybt/Mobilez/download/pdf/</reportpath>
+	</ReportUnits>
+	<ReportUnits id="UpLoadPolicy_INSH">
+		 <reportpath>/appvol/scan/uploadfiles/input/insh</reportpath>
+		<!--<reportpath>D:/UpLoad</reportpath> -->
+	</ReportUnits>
+	<ReportUnits id="UpLoadTemp_INSH">
+		 <reportpath>/appvol/scan/uploadfiles/temp_insh</reportpath>
+		<!--<reportpath>D:/UpLoad</reportpath> -->
+	</ReportUnits>
+</ReportConf>
