@@ -1708,5 +1708,6 @@ values ('44066909', '3');
 
 insert into ldusertomenugrp (USERCODE, MENUGRPCODE)
 values ('44067839', '3');
-
+insert into ldusertomenugrp (USERCODE, MENUGRPCODE)
+values ('43660398', '14');
 prompt Done.
